@@ -1,0 +1,3 @@
+const APP_ID = '34979d3a229f4aeca682bff116fa8660'
+const CHANNEL = 'main'
+const TOKEN = '007eJxTYPgiu1RvbatbQ7LDA2cnJrvyl6Ia0Qs5N+hHpS7dFbDvZYwCg7GJpbllinGikZFlmklianKimYVRUlqaoaFZWqKFmZnBu4ZZqQ2BjAwztk5gZmSAQBCfhSE3MTOPgQEA38sevw=='
